@@ -36,7 +36,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S1"></a>
-### Session 1: Introduction to Siemens NX!
+### Session 1: Introduction to the Solidworks - Disney Universe!
 (Tuesday, June 3)
 
 **Objective:** In this session, we’ll get ourselves acquainted with the Solidworks workspace and start learning some of the most used tools. S1’s goals include: 
@@ -63,8 +63,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S2"></a>
-### Session 2: Splines, Sketch Pictures and logos!
-(Thursday, January 9)
+### Session 2: Pixar!
+(Thursday, June 5)
 
 **Objective:** In this session, we’ll continue exploring some of the most powerful Solidworks tools. S2’s goals include:
 * Understanding how to create a sketch for a revolve.
@@ -88,8 +88,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S3"></a>
-### Session 3: All about symmetry, patterns and planes!
-(Tuesday, January 14)
+### Session 3: Disney Trains - EPCOT!
+(Tuesday, June 10)
 
 **Session Activities:** 
 * EPCOT's Toy [Monorail](https://media.wdwnt.com/2020/01/EPCOT-Photo-Report-1-7-20-Monorail-1200x800.jpg).
@@ -103,8 +103,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S4"></a>
-### Session 4: Sweeping through the courts!
-(Thursday, January 16)
+### Session 4: Disney Trains - Magic Kingdom!
+(Thursday, June 12)
 
 **Session Activities:** 
 * Magic Kingdom's Toy [Locomotive](https://storage-cdn.touringplans.com/storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2269dc19d60ba464090ea2b2ecee17dee62a9cc8/mk48_overview.jpg).
@@ -121,7 +121,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S4half"></a>
-### (BONUS) Session 4.5: Let's have a 3D-modeled Coke in Space!
+### (BONUS) Session 4.5: Disney Trains - Stations!
 (online only)
 
 **Session Activities:** 
@@ -137,8 +137,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S5"></a>
-### Session 5: Living in a world made from plastic bricks!
-(Tuesday, January 21)
+### Session 5: Mickey and the Genie!
+(Tuesday, June 17)
 
 **Session Activities:** 
 * The Genie's [lamp](https://static.wikia.nocookie.net/aladdin/images/4/4b/Genie%27s_Lamp.png/revision/latest?cb=20200531024123).
@@ -154,8 +154,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S6"></a>
-### Session 6: Variable Tables and Equations!
-(Thursday, January 23)
+### Session 6: Tomorrowland!
+(Thursday, June 19)
 
 **Session Activities:** 
 * EPCOT's [Spaceship Earth](https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoid3d3Lndkdy1tYWdhemluZS5jb20iLCJ2Ijo4ODIyNDM2MzIsInIiOjF9/wp-content/uploads/2023/04/092521_EPCOT_Entrance_SSE01_Danny-Shuster-scaled.jpg).
