@@ -49,8 +49,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Learning how to add a picture and sketch on it.
 
 **Session Activities:** 
-* A standard six-sided dice.
-* A Nokia [8210](https://upload.wikimedia.org/wikipedia/commons/d/d2/Nokia_8210.jpg) phone.
+* A [Sorcerer Mickey](https://i.pinimg.com/736x/52/10/02/521002ee4bac6651e08e26374e2b5d0e.jpg) mug.
+* A commemorative [Mickey coin](https://media.bradfordexchange.com/image/upload/b_auto,c_pad,dpr_2.0,f_auto,h_375,q_auto,w_375/e_sharpen:200/c_pad,h_375,w_375/v1/subplan-and-parent/910849_alt2?pgw=1) for [Disneyland Paris](https://i.ebayimg.com/images/g/7L0AAOSw0vBnlBM1/s-l1600.webp).
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -75,8 +75,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 
 **Session Activities:** 
-* An MIT [Angry Beaver](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/intramurals-angry-beaver-1-1.png) banner.
-* A keychain of your favorite airline. 
+* A [Luxo, Jr.](https://static.wikia.nocookie.net/disney/images/0/00/LuxoJr_Lamp_1.jpg/revision/latest?cb=20240317035401) lamp.
+* A Monsters, Inc. [Scream Canister](https://static.wikia.nocookie.net/disney/images/0/0c/Scream_Canister.jpg/revision/latest?cb=20180308210649).
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -92,8 +92,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 (Tuesday, January 14)
 
 **Session Activities:** 
-* A fidget spinner!
-* A Chinese.
+* EPCOT's Toy [Monorail](https://media.wdwnt.com/2020/01/EPCOT-Photo-Report-1-7-20-Monorail-1200x800.jpg).
+* EPCOT's Toy [Train Tracks](https://m.media-amazon.com/images/I/61GBnKhrebL.jpg).
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -107,8 +107,9 @@ Although intended for students with existing CAD (computer-aided design) experie
 (Thursday, January 16)
 
 **Session Activities:** 
-* A HEAD.
-* A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
+* Magic Kingdom's Toy [Locomotive](https://storage-cdn.touringplans.com/storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2269dc19d60ba464090ea2b2ecee17dee62a9cc8/mk48_overview.jpg).
+* Magic Kingdom's Toy [Wagons](https://upload.wikimedia.org/wikipedia/commons/b/b8/WDW_Railroad_Coach.jpg).
+* Magic Kingdom's Toy Train Tracks.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -124,8 +125,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 (online only)
 
 **Session Activities:** 
-* A Diet Coke [222ml can](https://i5.walmartimages.com/asr/4e648786-e141-4a04-a612-2a4a42c0e423.49b830cbf38f440b0807099beb68fc07.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF) (with labels included).
-* An MIT [tech](https://sailing.mit.edu/future/g6/in_water.jpg) dinghy. 
+* Combined [Train](https://www.disneyfoodblog.com/wp-content/uploads/2021/03/2021-DLR-Disneyland-Train-Station-Stock-.jpg) [Station](https://www.disneyfanatic.com/wp-content/uploads/2022/09/Credit-Tokyo-Disney.jpeg).
+* Hybrid Magic Kingdom & EPCOT park layout to place the models from S1 through S6.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -139,8 +140,9 @@ Although intended for students with existing CAD (computer-aided design) experie
 ### Session 5: Living in a world made from plastic bricks!
 (Tuesday, January 21)
 
-**Session Activity:** 
-* A standard.
+**Session Activities:** 
+* The Genie's [lamp](https://static.wikia.nocookie.net/aladdin/images/4/4b/Genie%27s_Lamp.png/revision/latest?cb=20200531024123).
+* A Mickey [statue](https://static.wikia.nocookie.net/love-exalted/images/6/6f/Mickey_Mouse_render.png/revision/latest/thumbnail/width/360/height/360?cb=20211011152309).
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -155,8 +157,10 @@ Although intended for students with existing CAD (computer-aided design) experie
 ### Session 6: Variable Tables and Equations!
 (Thursday, January 23)
 
-**Session Activity:** 
-* A wooden.
+**Session Activities:** 
+* EPCOT's [Spaceship Earth](https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoid3d3Lndkdy1tYWdhemluZS5jb20iLCJ2Ijo4ODIyNDM2MzIsInIiOjF9/wp-content/uploads/2023/04/092521_EPCOT_Entrance_SSE01_Danny-Shuster-scaled.jpg).
+* Magic Kingdom's [Astro Orbiter](https://wdwmagic.twic.pics/ElementGalleryItems/attractions/Fullsize/Astro-Orbitor_Full_40009.jpg).
+* Placing the S1 through S6 models in the park layout.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
