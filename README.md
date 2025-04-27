@@ -20,7 +20,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Prerequisites:** Willingness to have fun and think outside the box!
 
-**Course Files:** Available at the [Session Files]() folder.
+**Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files) folder.
 
 ## Schedule
 
@@ -56,7 +56,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 1]() folder.
+**Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%201) folder.
 
 
 ([ back to top ](#back_to_top))
@@ -82,7 +82,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 2]() folder.
+**Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%202) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -99,7 +99,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 3]() folder. 
+**Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%203) folder. 
 
 ---
 <a name="S4"></a>
@@ -114,7 +114,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Asynchronous: To be posted.
 * In-person: To be posted.
   
-**Session Slides and File Parts:** Available at the [Session 4]() folder.
+**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%204) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -130,7 +130,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Session Recordings:** 
 * Asynchronous: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 4]() folder.
+**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%204) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -146,7 +146,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 5]() folder.
+**Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%205) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -162,7 +162,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Asynchronous: To be posted.
 * In-person: To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 6]() folder.
+**Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%206) folder.
 
 ([ back to top ](#back_to_top))
 
