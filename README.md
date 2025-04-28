@@ -4,7 +4,7 @@ Welcome to How to CAD Almost Anything! Disney Edition. In this repository, you'l
 
 ## Workshop Summary
 
-Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a Sorcerer Mickey Mug, the Magic Kingdom Railroad, or EPCOT's Spaceship Earth? What about designing the Genie's ? The Luxo, Jr. Lamp? Or the Scream Canisters from Monsters, Inc.? In this fun MIT Summer 2025 workshop, you will learn the skills to design all of these, and much more! 
+Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a Sorcerer Mickey Mug, the Magic Kingdom Railroad, or EPCOT's Spaceship Earth? What about designing the Genie's Lamp? The Luxo, Jr. Lamp? Or the Scream Canisters from Monsters, Inc.? In this fun MIT Summer 2025 workshop, you will learn the skills to design all of these, and much more! 
 
 Split into 6 2-hour long sessions, this course acts as a companion edition to the [“How to CAD Almost Anything!”](https://github.com/andyeske/How-to-CAD-Almost-Anything) IAP 2024 workshop on Solidworks. The first two sessions will be focused on reviewing Solidworks skills, primarily intended for students that did not attend the IAP 2024 workshop. The latter four sessions will be focused purely on modeling, working together to produce advanced Disney-themed CAD models. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, but about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
