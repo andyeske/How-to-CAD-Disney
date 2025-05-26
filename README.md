@@ -14,7 +14,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Instructor:** [Andy Eskenazi](https://lae.mit.edu/team/andy-eskenazi/) (MIT LAE PhD Student).
 
-**Meeting Times:** Tuesdays and Thursdays, 3:00pm - 5:00pm (sessions may run longer depending on the complexity of the projects). There are 6 weekly sessions, starting on 06/03/25 until 06/19/25. The sessions will take place on 06/03, 06/05, 06/10, 06/12, 06/17 and 06/19. 
+**Meeting Times:** Tuesdays and Thursdays, 3:00pm - 5:00pm (sessions may run longer depending on the complexity of the projects). There are 6 weekly sessions, starting on 06/03/25 until 06/19/25. The sessions will take place on 06/03, 06/05, 06/10, 06/12, 06/17 and 06/20 (a Friday!). 
 
 **Meeting Room:** [GIS & Data Lab](https://libraries.mit.edu/data-services/gis-data-lab/), Rotch Library (7-238).
 
