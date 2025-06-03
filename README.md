@@ -58,6 +58,23 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%201) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%201/Sorcerer%20Mickey%20Mug.png" width="500"> 
+
+**Figure:** _A Sorcerer Mickey Mug_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%201/Coin%20Front%20Side.png" width="500"> 
+
+**Figure:** _A commemorative Mickey Coin for Disneyland Paris - Front Side_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%201/Coin%20Back%20Side.png" width="500"> 
+
+**Figure:** _A commemorative Mickey Coin for Disneyland Paris - Back Side_.
+</p>
 
 ([ back to top ](#back_to_top))
 
