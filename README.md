@@ -53,7 +53,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * A commemorative [Mickey coin](https://media.bradfordexchange.com/image/upload/b_auto,c_pad,dpr_2.0,f_auto,h_375,q_auto,w_375/e_sharpen:200/c_pad,h_375,w_375/v1/subplan-and-parent/910849_alt2?pgw=1) for [Disneyland Paris](https://i.ebayimg.com/images/g/7L0AAOSw0vBnlBM1/s-l1600.webp).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=1oKpOw-4I_A.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%201) folder.
