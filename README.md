@@ -54,7 +54,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Session Recordings:** 
 * Asynchronous: https://www.youtube.com/watch?v=1oKpOw-4I_A.
-* In-person: To be posted.
+* In-person: https://www.youtube.com/watch?v=aCPizteXmag.
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%201) folder.
 
