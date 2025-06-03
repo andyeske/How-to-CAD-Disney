@@ -197,4 +197,4 @@ To be posted!
 
 ## Enrollment Statistics
 
-To be posted!
+How to CAD Almost Anything: MIT Summer 2025 saw a total of 43 students enrolled, hailing from 17 MIT departments: 2 (18.6%) | 3 (2.3%) | 4 (2.3%) | 5 (2.3%) | 6 (11.6%) | 7 (2.3%) | 8 (7.0%) | 9 (2.3%) | 10 (2.3%) | 12 (2.3%) | 15 (9.3%) | 16 (2.3%) | 20 (2.3%) | IDSS (2.3%) | SDM (2.3%) | Postdoc (4.7%) and N/A (23.3%).
