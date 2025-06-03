@@ -76,6 +76,12 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Figure:** _A commemorative Mickey Coin for Disneyland Paris - Back Side_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%201/Pixar%20Ball.png" width="500"> 
+
+**Figure:** _(In-person Session 1) The Pixar Ball_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
