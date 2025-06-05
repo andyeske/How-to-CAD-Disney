@@ -107,6 +107,24 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%202) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%202/Scream%20Canister.png" width="500"> 
+
+**Figure:** _A Scream Canister from Monsters, Inc._.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%202/Luxo%2C%20Jr.%20Lamp.png" width="500"> 
+
+**Figure:** _A model of the Luxo, Jr. Lamp_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%202/Luxo%2C%20Jr.%20Lamp%20with%20Ball.png" width="500"> 
+
+**Figure:** _The Luxo, Jr. Lamp with the Pixar Ball (from Session 1)_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
