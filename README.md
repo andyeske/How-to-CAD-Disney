@@ -102,7 +102,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * A Monsters, Inc. [Scream Canister](https://static.wikia.nocookie.net/disney/images/0/0c/Scream_Canister.jpg/revision/latest?cb=20180308210649).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=uGYpVHbs9mY.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%202) folder.
