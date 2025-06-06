@@ -125,6 +125,12 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Figure:** _The Luxo, Jr. Lamp with the Pixar Ball (from Session 1)_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%202/Scream%20Door%20Assembly.png" width="500"> 
+
+**Figure:** _(In-person Session 2) A Scream Door with a Scream Canister_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
