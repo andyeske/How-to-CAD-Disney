@@ -148,6 +148,42 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%203) folder. 
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%203/Monorail%20Locomotive%20-%20Isometric%20View.png" width="500"> 
+
+**Figure:** _Monorail Locomotive - Isometric View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%203/Monorail%20Locomotive%20-%20Side%20View.png" width="500"> 
+
+**Figure:** _Monorail Locomotive - Side View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%203/Monorail%20Locomotive%20-%20Front%20View.png" width="500"> 
+
+**Figure:** _Monorail Locomotive - Front View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%203/Monorail%20Wagon.png" width="500"> 
+
+**Figure:** _Monorail Wagon - Isometric View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%203/Monorail%20Assembly%201.png" width="500"> 
+
+**Figure:** _Monorail Locomotive and Wagon Assembly_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%203/Monorail%20Assembly%202.png" width="500"> 
+
+**Figure:** _Monorail Locomotive and Wagon Assembly - Zoomed-In view_.
+</p>
+
 ---
 <a name="S4"></a>
 ### Session 4: Disney Trains - Magic Kingdom!
