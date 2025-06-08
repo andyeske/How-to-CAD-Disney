@@ -187,7 +187,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%203/Monorail%20on%20Tracks.png" width="500"> 
 
-**Figure:** _Monorail Track Assembly. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/ETVpTdKpeypNpdiiEUg4MegBIviEo2nBF_GCadPGgeuxxQ?e=pBBN7j) _.
+**Figure:** _Monorail Track Assembly. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/ETVpTdKpeypNpdiiEUg4MegBIviEo2nBF_GCadPGgeuxxQ?e=pBBN7j)_.
 </p>
 
 <p align="left">
