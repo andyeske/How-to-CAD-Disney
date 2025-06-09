@@ -143,7 +143,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * EPCOT's Toy [Train Tracks](https://m.media-amazon.com/images/I/61GBnKhrebL.jpg).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=8gVX86ypl_o.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%203) folder. 
