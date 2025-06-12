@@ -144,7 +144,6 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Session Recordings:** 
 * Asynchronous: https://www.youtube.com/watch?v=8gVX86ypl_o.
-* In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%203) folder. 
 
@@ -207,8 +206,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Magic Kingdom's Toy Train Tracks.
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
-* In-person: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=5ZBtReZZUNs.
+* In-person (combined Session 3 + Session 4): To be posted.
   
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%204) folder.
 
