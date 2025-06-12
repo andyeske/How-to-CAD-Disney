@@ -229,6 +229,12 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Figure:** _Magic kingdom Locomotive - Front View_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204/Streetcar.png" width="500"> 
+
+**Figure:** _(In-person Session 3 + Session 4) A model of the Magic Kingdom Streetcar_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
