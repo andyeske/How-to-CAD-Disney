@@ -212,6 +212,24 @@ Although intended for students with existing CAD (computer-aided design) experie
   
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%204) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204/Magic%20Kingdom%20Locotomtive%20-%20Isometric%20View.png" width="500"> 
+
+**Figure:** _Magic Kingdom Locomotive - Isometric View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204/Magic%20Kingdom%20Locomotive%20-%20Side%20View.png" width="500"> 
+
+**Figure:** _Magic Kingdom Locomotive - Side View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204/Magic%20Kingdom%20Locomotive%20-%20Front%20View.png" width="500"> 
+
+**Figure:** _Magic kingdom Locomotive - Front View_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
