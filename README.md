@@ -317,7 +317,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 ---
 <a name="S6"></a>
 ### Session 6: Tomorrowland!
-(Thursday, June 19)
+(Friday, June 20)
 
 **Session Activities:** 
 * EPCOT's [Spaceship Earth](https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoid3d3Lndkdy1tYWdhemluZS5jb20iLCJ2Ijo4ODIyNDM2MzIsInIiOjF9/wp-content/uploads/2023/04/092521_EPCOT_Entrance_SSE01_Danny-Shuster-scaled.jpg).
