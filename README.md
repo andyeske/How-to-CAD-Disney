@@ -251,7 +251,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Session Recordings:** 
 * Asynchronous: https://www.youtube.com/watch?v=Q9YfJkcmNDQ.
 
-**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%204) folder.
+**Session Slides and File Parts:** Available at the [Session 4.5](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%204.5) folder.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Theme%20Park%20-%20Isometric%20View.png" width="500"> 
