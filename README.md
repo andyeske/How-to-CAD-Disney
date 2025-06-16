@@ -246,6 +246,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Main Street [Train](https://www.disneyfoodblog.com/wp-content/uploads/2021/03/2021-DLR-Disneyland-Train-Station-Stock-.jpg) Station.
 * Monorail Train [Station](https://www.disneyfanatic.com/wp-content/uploads/2022/09/Credit-Tokyo-Disney.jpeg).
 * Hybrid Magic Kingdom & EPCOT park layout to place the models from S1 through S6.
+* Extra: finishing the Coal Wagon and Curved Track from S4. 
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
