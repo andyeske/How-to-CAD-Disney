@@ -277,6 +277,18 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Figure:** _Main Train Station_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Coal%20Wagon.png" width="500"> 
+
+**Figure:** _Coal Wagon_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Locomotive%20and%20Coal%20Wagon.png" width="500"> 
+
+**Figure:** _Coal Wagon with the Locomotive_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
