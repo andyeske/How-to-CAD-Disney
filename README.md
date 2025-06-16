@@ -202,7 +202,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Session Activities:** 
 * Magic Kingdom's Toy [Locomotive](https://storage-cdn.touringplans.com/storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2269dc19d60ba464090ea2b2ecee17dee62a9cc8/mk48_overview.jpg).
-* Magic Kingdom's Toy [Wagons](https://upload.wikimedia.org/wikipedia/commons/b/b8/WDW_Railroad_Coach.jpg).
+* Magic Kingdom's Toy [Wagons](https://upload.wikimedia.org/wikipedia/commons/b/b8/WDW_Railroad_Coach.jpg) (skipped due to similarity with the streetcar model).
 * Magic Kingdom's Toy Train Tracks.
 
 **Session Recordings:** 
