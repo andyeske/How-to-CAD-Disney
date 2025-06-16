@@ -294,6 +294,12 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%205) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%205/Genie's%20Lamp.png" width="500"> 
+
+**Figure:** _A simple model of the Genie's Lamp_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
