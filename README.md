@@ -239,17 +239,42 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S4half"></a>
-### (BONUS) Session 4.5: Disney Trains - Stations!
+### (BONUS) Session 4.5: Disney Trains - Stations & Park Layout!
 (online only)
 
 **Session Activities:** 
-* Combined [Train](https://www.disneyfoodblog.com/wp-content/uploads/2021/03/2021-DLR-Disneyland-Train-Station-Stock-.jpg) [Station](https://www.disneyfanatic.com/wp-content/uploads/2022/09/Credit-Tokyo-Disney.jpeg).
+* Main Street [Train](https://www.disneyfoodblog.com/wp-content/uploads/2021/03/2021-DLR-Disneyland-Train-Station-Stock-.jpg) Station.
+* Monorail Train [Station](https://www.disneyfanatic.com/wp-content/uploads/2022/09/Credit-Tokyo-Disney.jpeg).
 * Hybrid Magic Kingdom & EPCOT park layout to place the models from S1 through S6.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%204) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Theme%20Park%20-%20Isometric%20View.png" width="500"> 
+
+**Figure:** _Combined Magic Kingdom & EPCOT Theme Park - Isometric View (missing some CAD objects from S5 & S6, but including S6's Spaceship Earth!)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Theme%20Park%20-%20Front%20View.png" width="500"> 
+
+**Figure:** _Combined Magic Kingdom & EPCOT Theme Park - Front View. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EdU0lhMWq5tFtinEvZ49TtsB3Ra0c1h8__iHUBBWqOXykw?e=HyMcnh)_._.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Monorail%20Station.png" width="500"> 
+
+**Figure:** _Monorail Station_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Train%20Station.png" width="500"> 
+
+**Figure:** _Main Train Station_.
+</p>
 
 ([ back to top ](#back_to_top))
 
@@ -285,6 +310,12 @@ Although intended for students with existing CAD (computer-aided design) experie
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%206) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/Spaceship%20Earth.png" width="500"> 
+
+**Figure:** _A slightly less traingulated model of Spaceship Earth_.
+</p>
 
 ([ back to top ](#back_to_top))
 
