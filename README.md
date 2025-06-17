@@ -324,6 +324,12 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Figure:** _A trio of Green Aliens/Little Green Men_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%205/Banana.png" width="500"> 
+
+**Figure:** _(In-person Session 5) A Brown Banana (not necessarily Disney-themed, but still good practice)_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
