@@ -301,7 +301,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * A Mickey [statue](https://static.wikia.nocookie.net/love-exalted/images/6/6f/Mickey_Mouse_render.png/revision/latest/thumbnail/width/360/height/360?cb=20211011152309). (this proved to be too difficult, so instead the project focused on the green [aliens](https://toystoryreplica.com/wp-content/uploads/2023/06/1-scaled.jpg) from Toy Story!).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=GNeuy_4DVOc.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%205) folder.
