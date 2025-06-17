@@ -298,7 +298,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Session Activities:** 
 * The Genie's [lamp](https://static.wikia.nocookie.net/aladdin/images/4/4b/Genie%27s_Lamp.png/revision/latest?cb=20200531024123).
-* A Mickey [statue](https://static.wikia.nocookie.net/love-exalted/images/6/6f/Mickey_Mouse_render.png/revision/latest/thumbnail/width/360/height/360?cb=20211011152309).
+* A Mickey [statue](https://static.wikia.nocookie.net/love-exalted/images/6/6f/Mickey_Mouse_render.png/revision/latest/thumbnail/width/360/height/360?cb=20211011152309). (this proved to be too difficult, so instead the project focused on the green [aliens](https://toystoryreplica.com/wp-content/uploads/2023/06/1-scaled.jpg) from Toy Story!).
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -310,6 +310,18 @@ Although intended for students with existing CAD (computer-aided design) experie
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%205/Genie's%20Lamp.png" width="500"> 
 
 **Figure:** _A simple model of the Genie's Lamp_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%205/Green%20Alien.png" width="500"> 
+
+**Figure:** _A model of a Green Alien/Little Green Man_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%205/Trio%20of%20Green%20Aliens.png" width="500"> 
+
+**Figure:** _A trio of Green Aliens/Little Green Men_.
 </p>
 
 ([ back to top ](#back_to_top))
