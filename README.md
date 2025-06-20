@@ -245,7 +245,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Session Activities:** 
 * Main Street [Train](https://www.disneyfoodblog.com/wp-content/uploads/2021/03/2021-DLR-Disneyland-Train-Station-Stock-.jpg) Station.
 * Monorail Train [Station](https://www.disneyfanatic.com/wp-content/uploads/2022/09/Credit-Tokyo-Disney.jpeg).
-* Hybrid Magic Kingdom & EPCOT park layout to place the models from S1 through S6.
+* Hybrid Magic Kingdom & EPCOT park layout (aka "CAD Kingdom") to place the models from S1 through S6.
 * Extra: finishing the Coal Wagon and Curved Track from S4. 
 
 **Session Recordings:** 
@@ -256,13 +256,13 @@ Although intended for students with existing CAD (computer-aided design) experie
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Theme%20Park%20-%20Isometric%20View.png" width="500"> 
 
-**Figure:** _Combined Magic Kingdom & EPCOT Theme Park - Isometric View (missing some CAD objects from S5 & S6, but including S6's Spaceship Earth!)_.
+**Figure:** _CAD Kingdom - Isometric View (missing some CAD objects from S5 & S6, but including S6's Spaceship Earth!)_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Theme%20Park%20-%20Front%20View.png" width="500"> 
 
-**Figure:** _Combined Magic Kingdom & EPCOT Theme Park - Front View. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EdU0lhMWq5tFtinEvZ49TtsB3Ra0c1h8__iHUBBWqOXykw?e=HyMcnh)_._.
+**Figure:** _CAD Kingdom - Front View. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EdU0lhMWq5tFtinEvZ49TtsB3Ra0c1h8__iHUBBWqOXykw?e=HyMcnh)_._.
 </p>
 
 <p align="left">
@@ -340,7 +340,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Session Activities:** 
 * EPCOT's [Spaceship Earth](https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoid3d3Lndkdy1tYWdhemluZS5jb20iLCJ2Ijo4ODIyNDM2MzIsInIiOjF9/wp-content/uploads/2023/04/092521_EPCOT_Entrance_SSE01_Danny-Shuster-scaled.jpg).
 * Magic Kingdom's [Astro Orbiter](https://wdwmagic.twic.pics/ElementGalleryItems/attractions/Fullsize/Astro-Orbitor_Full_40009.jpg).
-* Placing the S1 through S6 models in the park layout.
+* Placing the S1 through S6 models in the "CAD Kingdom" park layout.
 
 **Session Recordings:** 
 * Asynchronous: To be posted.
@@ -369,19 +369,19 @@ Although intended for students with existing CAD (computer-aided design) experie
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/%22CAD%20Kingdom%22%20-%20Isometric%20View.png" width="500"> 
 
-**Figure:** _Combined Magic Kingdom & EPCOT Theme Park (aka "CAD Kingdom") - Isometric View_.
+**Figure:** _CAD Kingdom - Isometric View_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/%22CAD%20Kingdom%22%20-%20Isometric%20View%202.png" width="500"> 
 
-**Figure:** _Combined Magic Kingdom & EPCOT Theme Park (aka "CAD Kingdom") - Front Isometric View_.
+**Figure:** _CAD Kingdom - Front Isometric View_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/%22CAD%20Kingdom%22%20-%20Top%20View.png" width="500"> 
 
-**Figure:** _Combined Magic Kingdom & EPCOT Theme Park (aka "CAD Kingdom") - Top View_.
+**Figure:** _CAD Kingdom - Top View_.
 </p>
 
 ([ back to top ](#back_to_top))
