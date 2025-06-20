@@ -349,9 +349,39 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%206) folder.
 
 <p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/Astro%20Orbiter%20-%20Isometric%20View.png" width="500"> 
+
+**Figure:** _Astro Orbiter - Isometric View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/Astro%20Orbiter%20-%20Side%20View.png" width="500"> 
+
+**Figure:** _Astro Orbiter - Side View_.
+</p>
+
+<p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/Spaceship%20Earth.png" width="500"> 
 
 **Figure:** _A slightly less traingulated model of Spaceship Earth_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/%22CAD%20Kingdom%22%20-%20Isometric%20View.png" width="500"> 
+
+**Figure:** _Combined Magic Kingdom & EPCOT Theme Park (aka "CAD Kingdom") - Isometric View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/%22CAD%20Kingdom%22%20-%20Isometric%20View%202.png" width="500"> 
+
+**Figure:** _Combined Magic Kingdom & EPCOT Theme Park (aka "CAD Kingdom") - Front Isometric View_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/%22CAD%20Kingdom%22%20-%20Top%20View.png" width="500"> 
+
+**Figure:** _Combined Magic Kingdom & EPCOT Theme Park (aka "CAD Kingdom") - Top View_.
 </p>
 
 ([ back to top ](#back_to_top))
