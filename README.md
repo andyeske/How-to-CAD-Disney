@@ -363,7 +363,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/Spaceship%20Earth.png" width="500"> 
 
-**Figure:** _A slightly less traingulated model of Spaceship Earth_.
+**Figure:** _A slightly less triangulated model of Spaceship Earth_.
 </p>
 
 <p align="left">
