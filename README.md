@@ -343,7 +343,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Placing the S1 through S6 models in the "CAD Kingdom" park layout.
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://www.youtube.com/watch?v=gvXWv8Klgw4.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files/Session%206) folder.
