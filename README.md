@@ -262,7 +262,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%204.5/Theme%20Park%20-%20Front%20View.png" width="500"> 
 
-**Figure:** _CAD Kingdom - Front View. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EdU0lhMWq5tFtinEvZ49TtsB3Ra0c1h8__iHUBBWqOXykw?e=HyMcnh)_._.
+**Figure:** _CAD Kingdom - Front View. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/EdU0lhMWq5tFtinEvZ49TtsB3Ra0c1h8__iHUBBWqOXykw?e=HyMcnh)_.
 </p>
 
 <p align="left">
@@ -351,7 +351,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/Astro%20Orbiter%20-%20Isometric%20View.png" width="500"> 
 
-**Figure:** _Astro Orbiter - Isometric View_.
+**Figure:** _Astro Orbiter - Isometric View. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/Ee12rzS6CwhArhp0qjEJ_xoBNSd6xPRhwFHAfXgTZPw51Q?e=BPxtmQ)_.
 </p>
 
 <p align="left">
@@ -369,7 +369,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Session%206/%22CAD%20Kingdom%22%20-%20Isometric%20View.png" width="500"> 
 
-**Figure:** _CAD Kingdom - Isometric View_.
+**Figure:** _CAD Kingdom - Isometric View. Due to the large file size, the assembly parts can be found [here](https://mitprod-my.sharepoint.com/:u:/g/personal/andyeske_mit_edu/Efrs2cX9RxZIomQp4C6ll1kBNllI_7kDCNXRJhAHwHgSTg?e=BuHmqs)_.
 </p>
 
 <p align="left">
