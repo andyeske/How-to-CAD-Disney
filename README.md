@@ -390,7 +390,11 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 Here are some pictures from the Summer 2025 workshop!
 
-To be posted!
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Disney/blob/main/Session%20Files/Mis/Final%20Class.jpeg" width="500"> 
+
+**Figure:** _Final Class: June 20!_
+</p>
 
 ([ back to top ](#back_to_top))
 
