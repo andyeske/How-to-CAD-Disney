@@ -22,6 +22,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files) folder.
 
+**Software:** Dassault Systèmes [Solidworks](https://www.solidworks.com/).
+
 ## Schedule
 
 ### Table of Contents 
