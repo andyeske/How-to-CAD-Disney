@@ -41,7 +41,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 ### Session 1: Introduction to the SolidWorks - Disney Universe!
 (Tuesday, June 3)
 
-**Objective:** In this session, we’ll get ourselves acquainted with the SolidWorks workspace and start learning some of the most used tools. S1’s goals include: 
+**Objective:** In this session, we’ll get ourselves acquainted with the SolidWorks workspace and start learning some of the most used tools. Session 1’s goals include: 
 * Creating sketches (using basic shapes, construction lines, smart-dimensioning, sketch relationships) and understanding planes.
 * Understanding what it means for a sketch to be fully defined.
 * Locating and using the different elementary feature commands (boss extrude, boss cut, fillet, chamfer).
@@ -91,7 +91,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 ### Session 2: Pixar!
 (Thursday, June 5)
 
-**Objective:** In this session, we’ll continue exploring some of the most powerful SolidWorks tools. S2’s goals include:
+**Objective:** In this session, we’ll continue exploring some of the most powerful SolidWorks tools. Session 2’s goals include:
 * Understanding how to create a sketch for a revolve.
 * Learning how to make use of the mirroring and circular patterns tools, both as a sketch and as a feature.
 * Learning how to create planes, at different angles.
@@ -139,6 +139,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 <a name="S3"></a>
 ### Session 3: Disney Trains - EPCOT!
 (Tuesday, June 10)
+
+**Objective:** In this session, we’ll practice using the loft and sweep commands to design to design curved objects.
 
 **Session Activities:** 
 * EPCOT's Toy [Monorail](https://media.wdwnt.com/2020/01/EPCOT-Photo-Report-1-7-20-Monorail-1200x800.jpg).
@@ -202,6 +204,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 ### Session 4: Disney Trains - Magic Kingdom!
 (Thursday, June 12)
 
+**Objective:** In this session, we’ll direct our attention towards Disney’s iconic locomotive, trying to create an accurate 3D model representation.
+
 **Session Activities:** 
 * Magic Kingdom's Toy [Locomotive](https://storage-cdn.touringplans.com/storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2269dc19d60ba464090ea2b2ecee17dee62a9cc8/mk48_overview.jpg).
 * Magic Kingdom's Toy [Wagons](https://upload.wikimedia.org/wikipedia/commons/b/b8/WDW_Railroad_Coach.jpg) (skipped due to similarity with the streetcar model).
@@ -243,6 +247,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 <a name="S4half"></a>
 ### (BONUS) Session 4.5: Disney Trains - Stations & Park Layout!
 (online only)
+
+**Objective:** In this session, we’ll continue building the SolidWorks – Disney Universe by practicing how to accurately model a historic-looking building.
 
 **Session Activities:** 
 * Main Street [Train](https://www.disneyfoodblog.com/wp-content/uploads/2021/03/2021-DLR-Disneyland-Train-Station-Stock-.jpg) Station.
@@ -298,6 +304,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 ### Session 5: Mickey, the Green Aliens, and the Genie!
 (Tuesday, June 17)
 
+**Objective:** In this session, we’ll practice using the loft command to design organic-looking geometries. 
+
 **Session Activities:** 
 * The Genie's [lamp](https://static.wikia.nocookie.net/aladdin/images/4/4b/Genie%27s_Lamp.png/revision/latest?cb=20200531024123).
 * A Mickey [statue](https://static.wikia.nocookie.net/love-exalted/images/6/6f/Mickey_Mouse_render.png/revision/latest/thumbnail/width/360/height/360?cb=20211011152309). (this proved to be too difficult, so instead the project focused on the green [aliens](https://toystoryreplica.com/wp-content/uploads/2023/06/1-scaled.jpg) from Toy Story!).
@@ -338,6 +346,8 @@ Although intended for students with existing CAD (computer-aided design) experie
 <a name="S6"></a>
 ### Session 6: Tomorrowland!
 (Friday, June 20)
+
+**Objective:** In this session, we’ll practice using two advanced modelling techniques, surface modeling and gear mates, to design a geodesic polyhedron and a carousel.
 
 **Session Activities:** 
 * EPCOT's [Spaceship Earth](https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoid3d3Lndkdy1tYWdhemluZS5jb20iLCJ2Ijo4ODIyNDM2MzIsInIiOjF9/wp-content/uploads/2023/04/092521_EPCOT_Entrance_SSE01_Danny-Shuster-scaled.jpg).
