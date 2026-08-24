@@ -1,12 +1,12 @@
 <a name="back_to_top"></a>
 # How to CAD Almost Anything: MIT Summer 2025
-Welcome to How to CAD Almost Anything! Disney Edition. In this repository, you'll find the workshop's slides, recordings and Solidworks files.
+Welcome to How to CAD Almost Anything! Disney Edition. In this repository, you'll find the workshop's slides, recordings and SolidWorks files.
 
 ## Workshop Summary
 
 Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a Sorcerer Mickey Mug, the Magic Kingdom Railroad, or EPCOT's Spaceship Earth? What about designing the Genie's Lamp? The Luxo, Jr. Lamp? Or the Scream Canisters from Monsters, Inc.? In this fun MIT Summer 2025 workshop, you will learn the skills to design all of these, and much more! 
 
-Split into 6 2-hour long sessions, this course acts as a companion edition to the [“How to CAD Almost Anything!”](https://github.com/andyeske/How-to-CAD-Almost-Anything) IAP 2024 workshop on Solidworks. The first two sessions will be focused on reviewing Solidworks skills, primarily intended for students that did not attend the IAP 2024 workshop. The latter four sessions will be focused purely on modeling, working together to produce advanced Disney-themed CAD models. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, but about independent thinking and strategizing, reverse engineering an object into a 3D model. 
+Split into 6 2-hour long sessions, this course acts as a companion edition to the [“How to CAD Almost Anything!”](https://github.com/andyeske/How-to-CAD-Almost-Anything) IAP 2024 workshop on Dassault Systèmes SolidWorks. The first two sessions will be focused on reviewing SolidWorks skills, primarily intended for students that did not attend the IAP 2024 workshop. The latter four sessions will be focused purely on modeling, working together to produce advanced Disney-themed CAD models. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, but about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
 Although intended for students with existing CAD (computer-aided design) experience, both beginners (no experience at all) and pro-users alike are welcomed! Come learn how to CAD (computer-aided design) essentially almost anything (Disney themed)!
 
@@ -22,7 +22,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Disney/tree/main/Session%20Files) folder.
 
-**Software:** Dassault Systèmes [Solidworks](https://www.solidworks.com/).
+**Software:** Dassault Systèmes [SolidWorks](https://www.solidworks.com/).
 
 ## Schedule
 
@@ -38,10 +38,10 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 ---
 <a name="S1"></a>
-### Session 1: Introduction to the Solidworks - Disney Universe!
+### Session 1: Introduction to the SolidWorks - Disney Universe!
 (Tuesday, June 3)
 
-**Objective:** In this session, we’ll get ourselves acquainted with the Solidworks workspace and start learning some of the most used tools. S1’s goals include: 
+**Objective:** In this session, we’ll get ourselves acquainted with the SolidWorks workspace and start learning some of the most used tools. S1’s goals include: 
 * Creating sketches (using basic shapes, construction lines, smart-dimensioning, sketch relationships) and understanding planes.
 * Understanding what it means for a sketch to be fully defined.
 * Locating and using the different elementary feature commands (boss extrude, boss cut, fillet, chamfer).
@@ -91,7 +91,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 ### Session 2: Pixar!
 (Thursday, June 5)
 
-**Objective:** In this session, we’ll continue exploring some of the most powerful Solidworks tools. S2’s goals include:
+**Objective:** In this session, we’ll continue exploring some of the most powerful SolidWorks tools. S2’s goals include:
 * Understanding how to create a sketch for a revolve.
 * Learning how to make use of the mirroring and circular patterns tools, both as a sketch and as a feature.
 * Learning how to create planes, at different angles.
