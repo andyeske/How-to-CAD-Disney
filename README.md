@@ -50,7 +50,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Learning how to use the spline tool and the wrap command.
 * Learning how to add a picture and sketch on it.
 
-**Session Activities:** 
+**Session Activities:** Using the tools learned on Session 1, we’ll design two objects, namely:
 * A [Sorcerer Mickey](https://i.pinimg.com/736x/52/10/02/521002ee4bac6651e08e26374e2b5d0e.jpg) mug.
 * A commemorative [Mickey coin](https://media.bradfordexchange.com/image/upload/b_auto,c_pad,dpr_2.0,f_auto,h_375,q_auto,w_375/e_sharpen:200/c_pad,h_375,w_375/v1/subplan-and-parent/910849_alt2?pgw=1) for [Disneyland Paris](https://i.ebayimg.com/images/g/7L0AAOSw0vBnlBM1/s-l1600.webp).
 
@@ -99,7 +99,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 * Learning how to make an exploded view of an assembly and subsequentially animating it.
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 
-**Session Activities:** 
+**Session Activities:** Using the tools learned on Session 2, we’ll design two objects, namely:
 * A [Luxo, Jr.](https://static.wikia.nocookie.net/disney/images/0/00/LuxoJr_Lamp_1.jpg/revision/latest?cb=20240317035401) lamp.
 * A Monsters, Inc. [Scream Canister](https://static.wikia.nocookie.net/disney/images/0/0c/Scream_Canister.jpg/revision/latest?cb=20180308210649).
 
@@ -142,7 +142,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Objective:** In this session, we’ll practice using the loft and sweep commands to design to design curved objects.
 
-**Session Activities:** 
+**Session Activities:** We’ll design two objects, namely:
 * EPCOT's Toy [Monorail](https://media.wdwnt.com/2020/01/EPCOT-Photo-Report-1-7-20-Monorail-1200x800.jpg).
 * EPCOT's Toy [Train Tracks](https://m.media-amazon.com/images/I/61GBnKhrebL.jpg).
 
@@ -206,7 +206,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Objective:** In this session, we’ll direct our attention towards Disney’s iconic locomotive, trying to create an accurate 3D model representation.
 
-**Session Activities:** 
+**Session Activities:** We’ll design two objects, namely:
 * Magic Kingdom's Toy [Locomotive](https://storage-cdn.touringplans.com/storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2269dc19d60ba464090ea2b2ecee17dee62a9cc8/mk48_overview.jpg).
 * Magic Kingdom's Toy [Wagons](https://upload.wikimedia.org/wikipedia/commons/b/b8/WDW_Railroad_Coach.jpg) (skipped due to similarity with the streetcar model).
 * Magic Kingdom's Toy Train Tracks.
@@ -250,7 +250,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Objective:** In this session, we’ll continue building the SolidWorks – Disney Universe by practicing how to accurately model a historic-looking building.
 
-**Session Activities:** 
+**Session Activities:** We’ll design a set of objects, namely:
 * Main Street [Train](https://www.disneyfoodblog.com/wp-content/uploads/2021/03/2021-DLR-Disneyland-Train-Station-Stock-.jpg) Station.
 * Monorail Train [Station](https://www.disneyfanatic.com/wp-content/uploads/2022/09/Credit-Tokyo-Disney.jpeg).
 * Hybrid Magic Kingdom & EPCOT park layout (aka "CAD Kingdom") to place the models from S1 through S6.
@@ -306,7 +306,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Objective:** In this session, we’ll practice using the loft command to design organic-looking geometries. 
 
-**Session Activities:** 
+**Session Activities:** We’ll design two objects, namely:
 * The Genie's [lamp](https://static.wikia.nocookie.net/aladdin/images/4/4b/Genie%27s_Lamp.png/revision/latest?cb=20200531024123).
 * A Mickey [statue](https://static.wikia.nocookie.net/love-exalted/images/6/6f/Mickey_Mouse_render.png/revision/latest/thumbnail/width/360/height/360?cb=20211011152309). (this proved to be too difficult, so instead the project focused on the green [aliens](https://toystoryreplica.com/wp-content/uploads/2023/06/1-scaled.jpg) from Toy Story!).
 
@@ -349,10 +349,10 @@ Although intended for students with existing CAD (computer-aided design) experie
 
 **Objective:** In this session, we’ll practice using two advanced modelling techniques, surface modeling and gear mates, to design a geodesic polyhedron and a carousel.
 
-**Session Activities:** 
+**Session Activities:** We’ll design two objects, namely:
 * EPCOT's [Spaceship Earth](https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoid3d3Lndkdy1tYWdhemluZS5jb20iLCJ2Ijo4ODIyNDM2MzIsInIiOjF9/wp-content/uploads/2023/04/092521_EPCOT_Entrance_SSE01_Danny-Shuster-scaled.jpg).
 * Magic Kingdom's [Astro Orbiter](https://wdwmagic.twic.pics/ElementGalleryItems/attractions/Fullsize/Astro-Orbitor_Full_40009.jpg).
-* Placing the S1 through S6 models in the "CAD Kingdom" park layout.
+* We'll place the S1 through S6 models in the "CAD Kingdom" park layout.
 
 **Session Recordings:** 
 * Asynchronous: https://www.youtube.com/watch?v=gvXWv8Klgw4.
