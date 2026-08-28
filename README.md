@@ -352,7 +352,7 @@ Although intended for students with existing CAD (computer-aided design) experie
 **Session Activities:** We’ll design two objects, namely:
 * EPCOT's [Spaceship Earth](https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoid3d3Lndkdy1tYWdhemluZS5jb20iLCJ2Ijo4ODIyNDM2MzIsInIiOjF9/wp-content/uploads/2023/04/092521_EPCOT_Entrance_SSE01_Danny-Shuster-scaled.jpg).
 * Magic Kingdom's [Astro Orbiter](https://wdwmagic.twic.pics/ElementGalleryItems/attractions/Fullsize/Astro-Orbitor_Full_40009.jpg).
-* We'll place the S1 through S6 models in the "CAD Kingdom" park layout.
+* And we'll place the S1 through S6 models in the "CAD Kingdom" park layout.
 
 **Session Recordings:** 
 * Asynchronous: https://www.youtube.com/watch?v=gvXWv8Klgw4.
